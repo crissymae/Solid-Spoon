@@ -22,7 +22,7 @@ Questions to consider:
 * Feature of the dataset are a list of ingredients for all of the recipes
 * The mean price per serving is 293.59977 cents($2.94), and the standard deviation is 204.26($2.04) 
 
-![graph1]https://github.com/crissymae/solid-spoon/blob/template-mvp/Images/PredErrorHist.png
+![Optional Text](https://https://github.com/crissymae/solid-spoon/blob/template-mvp/PricePerServingHist.png)
 
 
 ## Methods
