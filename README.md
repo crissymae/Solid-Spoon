@@ -62,7 +62,7 @@ The final model is not a perfect fit based on the RMSE (209.97), but is very clo
 
 ## For More Information
 
-Please review the full analysis in https://github.com/crissymae/solid-spoon or our [presentation](./DS_Project_Presentation.pdf).
+Please review the full analysis in https://github.com/crissymae/solid-spoon or our [presentation](https://github.com/crissymae/solid-spoon/blob/template-mvp/Presentation_Final.pdf).
 
 For any additional questions, please contact Crissy Bruce at crissybruce@gmail.com.
 
