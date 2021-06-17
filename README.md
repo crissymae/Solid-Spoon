@@ -49,10 +49,10 @@ Spoonacular has hired me to build a model to use for customers who want to estim
 
 ## Results
 
-The final model is not a perfect fit based on the RMSE (209.97), but is very close to the standard deviation of the original dataset (204.26 cents).
+The final model is not a perfect fit based on the Test MAE (126.33), but is lower than standard deviation of the original dataset (204.26 cents).
 
 
-## Future Steps and Limitations
+## Future Steps
 
 * Obtain more recipes.
 * Remove outliers within the original data that could skew the modeling work.
