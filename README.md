@@ -1,6 +1,6 @@
 # Solid-Spoon:Recipe Price Per Serving Estimator
 
-Prepared and presented by: Crissy Bruce
+Prepared and presented by: Crissy Bruce              ![graph1](https://github.com/crissymae/solid-spoon/blob/template-mvp/Word%20Cloud.png)
 
 
 ## Business Problem
