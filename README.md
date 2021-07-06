@@ -1,6 +1,11 @@
 # Solid-Spoon:Recipe Price Per Serving Estimator
+<img src= 
+"Word Cloud.png" 
+         alt="Word Cloud" 
+         align="right"
+         width="200" height="200"> 
 
-Prepared and presented by: Crissy Bruce              ![graph1](https://github.com/crissymae/solid-spoon/blob/template-mvp/Word%20Cloud.png)
+Prepared and presented by: Crissy Bruce              
 
 
 ## Business Problem
